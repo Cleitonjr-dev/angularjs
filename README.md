@@ -7,4 +7,5 @@ AngularJS #3 - Usando Diretivas - Parte 2 - Rodrigo Branas(print image).
 
 # Imagens do Projeto
 
-![image](https://user-images.githubusercontent.com/104870722/215144056-c361b1cc-fb71-475b-90e3-969f51a6094e.png)
+![image](https://user-images.githubusercontent.com/104870722/215144959-ca4e7573-c6b6-4373-a432-82263ec46685.png)
+
