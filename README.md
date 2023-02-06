@@ -5,9 +5,11 @@ AngularJS #2 - Usando Diretivas - Parte 1.
 
 AngularJS #3 - Usando Diretivas - Parte 2.
 
-AngularJS #4 - Validando Formulários. (print image).
+AngularJS #4 - Validando Formulários.
 
-![image](https://user-images.githubusercontent.com/104870722/216666643-b3ed9b08-ef35-4962-a647-a4db371bc918.png)
+AngularJS #5 - Aplicando Filtros. (print image).
+
+![image](https://user-images.githubusercontent.com/104870722/216994884-1b489578-16ec-4b43-9169-959a2582087b.png)
 
 
 
